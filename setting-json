@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.disableLanguages": [
+    "html"
+  ],
+  "liveSassCompile.settings.formats": [
+    // This is Default.
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+ // "savePath": "/assets/css/"
+    },
+  ],
+  "workbench.colorTheme": "Monokai"
+}
